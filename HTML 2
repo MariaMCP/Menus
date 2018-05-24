@@ -1,0 +1,38 @@
+<h1>Grilled Cheese Sandwich</h1>
+<details>
+  <summary>Ingredients</summary>
+  <p>
+    <ul>
+      <li>Butter</li>
+      <li>Bread</li>
+      <li>Cheese</li>
+      <li>Then use CSS to style like a pro</li>
+      <li><a href="https://www.w3schools.com/css/default.asp" target="blank">w3schools.com</a> is a great resource</li>
+  </p>
+</details>
+<details>
+  <summary>Step 1</summary>
+  <p>Put butter on the bread</p>
+</details>
+<details>
+  <summary>Step 2</summary>
+  <p>Put the butter side down in a hot pan</p>
+</details>
+<details>
+  <summary>Step 3</summary>
+  <p>Add cheese</p>
+</details>
+<details>
+  <summary>Step 4</summary>
+  <p>Put buttered bread on top with the butter side up</p>
+</details>
+<details>
+  <summary>Step 5</summary>
+  <p>Flip when bread is golden brown</p>
+</details>
+<details>
+  <summary>Step 6</summary>
+  <p>Serve with your choice of garnishment</p>
+</details>
+<p> Other recipes available:</p>
+<a href="https://codepen.io/mariabultena/pen/pVmbvP" target="blank">Turkey and Cheese Sandwich</a>
